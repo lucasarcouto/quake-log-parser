@@ -19,7 +19,8 @@ This will run the project in development mode and you can view it by openning [h
 ## Examples of summaries
 
 ### Standard
-`{
+```json
+{
   "game_1": {
     "total_kills": 11,
     "players": [
@@ -30,10 +31,12 @@ This will run the project in development mode and you can view it by openning [h
       "Isgalamido": -9
     }
   }
-}`
+}
+```
 
 ### By kill method
-`{
+```json
+{
   "game-1": {
     "kills_by_means": {
       "MOD_TRIGGER_HURT": 7,
@@ -41,7 +44,8 @@ This will run the project in development mode and you can view it by openning [h
       "MOD_FALLING": 1
     }
   }
-}`
+}
+```
 
 ## License
 
