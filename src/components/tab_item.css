@@ -1,0 +1,13 @@
+.tab-bar-item {
+    width: 100%;
+    padding: 8px 16px;
+    border: 1px solid orange;
+    color: orange;
+    background: none;
+    cursor: pointer;
+}
+
+.tab-bar-item.selected {
+    background-color: orange;
+    color: black;
+}

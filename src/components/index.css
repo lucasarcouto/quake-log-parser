@@ -1,0 +1,7 @@
+/**
+* The purpose of this file is to expose all CSS files
+* from the whole components folder in order to have a
+* single import on globals.css.
+*/
+@import 'tab.css';
+@import 'tab_item.css';

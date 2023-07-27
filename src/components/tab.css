@@ -1,0 +1,13 @@
+.tab {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}
+
+.tab .tab-bar-item:first-child {
+    border-radius: 16px 0px 0px 16px;
+}
+
+.tab .tab-bar-item:last-child {
+    border-radius: 0px 16px 16px 0px;
+}

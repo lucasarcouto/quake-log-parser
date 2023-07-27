@@ -1,0 +1,17 @@
+.home-page {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.log {
+    width: 70vw;
+}
+
+.empty-log {
+    display: flex;
+    width: 70vw;
+    padding: 48px 0px;
+    justify-content: center;
+}
